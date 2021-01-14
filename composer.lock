@@ -642,8 +642,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Ecom test",
+                    "email": "test@laravel.com"
                 }
             ],
             "description": "The Laravel Framework.",
